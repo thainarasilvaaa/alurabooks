@@ -3,6 +3,8 @@
 :root {
     --cor-de-fundo:#EBECEE;
     --branco: #FFFFFF;
+    --laranja: #EB9B00;
+    --azul-degrade: var(#002f52, #326589);
 }
 
 body {
